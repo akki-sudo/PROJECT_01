@@ -9,7 +9,7 @@ IN this project i am using "TWO ECUS"
 
 2>LCM module : respocible for controlling the lightning functions such as turning the headlights and indicators on and off based on the command which is recieved by bcm module.
 
-                ******************working***************************************
+****************WORKING***********
 
 In this project i used two LPC2129 ARM7 based microcontroller(one for BCM and other one for LCM) 
 CAN protocol is used for commmunication between  ECUs.
